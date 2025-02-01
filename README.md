@@ -1,4 +1,4 @@
-# Week1
+# AgriML
 AgriML: Precision Crop and Fertilizer Recommendation System
 Project Overview:<br>
 AgriML is an advanced machine learning-driven agricultural recommendation platform designed to optimize farming decisions through intelligent data analysis. The project develops predictive models for crop selection and fertilizer application using comprehensive environmental and soil parameters.<br><br>
